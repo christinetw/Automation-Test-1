@@ -6,7 +6,7 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By;
 
 
-class StackAdaptAutomationTest(unittest.TestCase):
+class AutomationTest(unittest.TestCase):
 
     def setUp(self):
 
